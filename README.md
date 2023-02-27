@@ -1,6 +1,6 @@
 # Annotation Tool
 
-This project was created using create-payload-app using the blank template.
+This project was created using [create-payload-app using](https://payloadcms.com/docs/getting-started/installation) the blank template.
 
 ## Before
 To create mongo collection with translations, please run the following:
@@ -9,6 +9,11 @@ cd mongo_collection
 pip install -r requirements.txt
 python create_collection.py
 ```
+
+Payload Software Requirements:
+* Yarn or NPM
+* NodeJS version 10+
+* A Mongo Database
 
 ## Run app
 
